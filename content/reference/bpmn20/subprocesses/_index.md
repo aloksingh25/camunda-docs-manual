@@ -10,4 +10,4 @@ menu:
 
 ---
 
-Reusability and grouping.
+Reusability and grouping. Below are the different types of subprocesses supported by Camunda.
